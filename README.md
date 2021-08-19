@@ -4,3 +4,7 @@ O programa fa uso da bibloteca pytube para realizar o download de videos do Yout
 
 
 The program makes use of the pytube library to download videos from Youtube
+
+need install:
+pip install tk
+pip install pytube
